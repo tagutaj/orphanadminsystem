@@ -1,0 +1,75 @@
+/* This is an external style sheet file */
+
+h1,h3 {
+	margin: 0px;
+	font-family: new times roman;
+	background: 5px #800080;
+	text-align:center;
+	text-transform:uppercase;	
+	border:1px;
+}
+div{
+	columns:100%;
+	text-align:center;
+	margin-top: 0px;
+	font-family:georgia;
+	background: 5px #000080;
+	color:black;
+	font-weight: bold;
+	padding-top :2px;
+	padding-bottom: 20px; 
+	
+	border:1px;
+	a:link {color:#000000};
+	a:visited {color: #006600};
+	a:hover {color: #FFCC00};
+	a:active {color: #FF00CC};
+}
+
+body{
+	font-family: new times roman;
+	font-size= 12pt;
+	background:#00ffff  ;
+	font-weight: normal;
+}
+table.one {
+	border-collapse:separate;
+	width:100%;
+	border-spacing:5px;
+	border-style:none;
+	font-size:8.8pt;
+	}
+table.two {
+	border-collapse:separate;
+	width:100%;
+	border-spacing:5px;
+	border-style:none;
+	font-size:12pt;
+	}
+table.insert{
+	background:#00ffff  ;
+	padding-left: 15%;
+	border-collapse:separate;
+	width:100%;
+	border-spacing:5px;
+	border-style:none;
+	overflow:auto;
+	}
+	
+#frm{
+	font-family: new times roman;
+	border:solid gray 1px;
+	width :20%;
+	border-radius : 5px;
+	margin : 100px auto;
+	background " white;
+	padding : 50px;
+	}
+	#btn{
+	font-family: new times roman;
+	background : #fff;
+	color : #337ab7;
+	padding :5px;
+	magin-left : 69%;
+	}
+	
