@@ -1,0 +1,1 @@
+# orphanadminsystem  is an orphan administration system designed to administer the welfare of orphans who are the most vulnerable of our communities. It keeps track of them with the provision of older orpans assisting younger ones. 
