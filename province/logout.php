@@ -1,6 +1,6 @@
 <?php
 session_start();
 if(session_destroy()){
-	header("location:orphansystem/index.html");
+	header("location:../index.html");
 }
 ?>
